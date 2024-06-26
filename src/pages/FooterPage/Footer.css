@@ -1,0 +1,11 @@
+.Footer-Main {
+  background-color: #e4e4c5;
+  border-radius: 8px;
+  padding-left: 10px;
+  /* position: absolute; */
+  bottom: 0;
+  /* width: inherit; */
+  span {
+    color: #0000ee;
+  }
+}

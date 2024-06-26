@@ -1,0 +1,12 @@
+.side-bar-main{
+        background-color: #e4e4c5;
+        border: none;
+        height: 150px;
+        .logo-img{
+          background-color: white;  
+          border-radius: 5px;
+          padding: 10px 0px 10px 0px;
+          margin: 0px 5px 20px 5px;
+          height: 70px;
+        }
+    }

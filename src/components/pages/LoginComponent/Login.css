@@ -1,0 +1,42 @@
+.login-main {
+  .side-bar-main {
+    background-color: #e4e4c5;
+    border: none;
+    height: 150px;
+  }
+  .right-side {
+    background-color: #e4e4c5;
+    border: none;
+    padding: 10px;
+    .top-content {
+      background-color: white;
+      border-radius: 5px;
+      .form-control {
+        display: block;
+        width: fit-content;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: var(--bs-body-color);
+        appearance: none;
+        background-color: var(--bs-body-bg);
+        background-clip: padding-box;
+        border: var(--bs-border-width) solid var(--bs-border-color);
+        border-radius: var(--bs-border-radius);
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+      }
+    }
+  }
+}
+label {
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.Click-here {
+  cursor: pointer;
+}
+.div-main{
+  font-size: 1.25rem;
+}

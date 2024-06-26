@@ -1,0 +1,8 @@
+.main-content {
+  margin: auto;
+  width: 80%;
+  background-color: white;
+  .main-layout-outlet-container {
+    margin-bottom: 20px;
+  }
+}

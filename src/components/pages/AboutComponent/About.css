@@ -1,0 +1,19 @@
+.about-main{
+    .side-bar-main {
+    background-color: #e4e4c5;
+    border: none;
+    height: 150px;
+  }
+  .right-side {
+    background-color: #e4e4c5;
+    border: none;
+    padding: 10px;
+    .top-content {
+      background-color: white;
+      border-radius: 5px;
+    }
+  }
+}
+.Click-here {
+  cursor: pointer;
+}
